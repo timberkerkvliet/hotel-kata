@@ -5,7 +5,7 @@ You are running a hotel with rooms that can be booked. All rooms have a number t
 Users should be able to obtain which rooms are available, given an arrival and departure date.
 
 Users should be able to initiate a booking by specifying room number, arrival date and departure date. If the room
- is available in the given time period, this results in the creation a booking.
+ is available in the given time period, this results in the creation of a booking.
 
 A booking can have 3 statuses:
 - Reserved
